@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <usb-accessory
+        description="gdutech"
+        manufacturer="SAMSUNG"
+        model="demo"
+        version="1.0" />
+
+    <!--<usb-accessory manufacturer="Leadcore, Inc." model="AccessoryPassthrough" type="Sample Program" version="1.0" />-->
+    <usb-accessory
+        description="Accessory Passthrough"
+        manufacturer="gdutech"
+        model="AccessoryPassthrough"
+        version="1.0" />
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GduDecoder/GduDecoder.iml" filepath="$PROJECT_DIR$/GduDecoder/GduDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GduRemoteControl/GduRemoteControl.iml" filepath="$PROJECT_DIR$/GduRemoteControl/GduRemoteControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GduSocket/GduSocket.iml" filepath="$PROJECT_DIR$/GduSocket/GduSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GduSocketDemo.iml" filepath="$PROJECT_DIR$/GduSocketDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GduSocketModel/GduSocketModel.iml" filepath="$PROJECT_DIR$/GduSocketModel/GduSocketModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdpSocket/UdpSocket.iml" filepath="$PROJECT_DIR$/UdpSocket/UdpSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

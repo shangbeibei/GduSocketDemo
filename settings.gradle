@@ -1,0 +1,1 @@
+include ':app', ':UdpSocket', ':GduDecoder', ':GduSocketModel', 'GduRemoteControl', 'GduSocket'
